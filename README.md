@@ -1,4 +1,4 @@
-# Personalized Movie Recommendation & Search Optimization System
+# Personalized Movie Recommendation
 
 A hybrid movie recommendation system combining **collaborative filtering (SVD matrix factorization)** with **content-based filtering** (TMDB metadata), evaluated using standard offline ranking metrics.
 
